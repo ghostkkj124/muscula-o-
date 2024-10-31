@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-witdh" , initial-scale="1.0">
+    <link rel="stylesheet" href="style.css">
+    <title> dark lab </title>
+</head>
+
+
+<body>
+    <header>dark Programação </header>
+    <section>
+        <div>
+            <h1>melhor creatina do mercado </h1>
+            <h2> são paulo </h2>
+            <p> Os melhores suplementos do mercado </p>
+        </div>
+        <div>
+           AQUI VAI UM VÍDEO
+        </div>
+    </section>
+
+
+</body>
+</html>
